@@ -1,2 +1,7 @@
-Hello world!
-Hello again
+git clone https://github.com/banjarajanardan/Learning-get.git
+cd <repo-name>
+git status
+git add
+git status
+git commit
+git push
